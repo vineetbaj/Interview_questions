@@ -6,4 +6,4 @@
 
 2. Array related questions
   - Finding duplicate values in an array using Hashtable
-      Complexity - O(n)
+     -- Complexity - O(n)
