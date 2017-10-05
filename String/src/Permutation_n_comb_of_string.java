@@ -2,7 +2,7 @@
 public class Permutation_n_comb_of_string {
 
 		public static void main(String args[]) {
-		    string_permutation("", "Love");
+		    string_permutation("", "Vineet");
 		  }
 
 		  public static void string_permutation(String beginningString, String endingString) {
