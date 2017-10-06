@@ -2,7 +2,7 @@
 
 1. String related questions
   - Reverse of a string via recursion
-  - Checking how many palindrome series a string contains.
+  - Checking how many palindrome series a string contains(*TO BE MADE).
   - Permutation of a string via recursion.
 
 2. Array related questions
