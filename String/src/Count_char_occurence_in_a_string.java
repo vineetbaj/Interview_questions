@@ -20,7 +20,6 @@ public class Count_char_occurence_in_a_string {
 			else
 				map.put(c, 1);	
 		}
-		
 		//keys with their occurrence
 		System.out.println(map.keySet() +" = "+ map.values());
 	}
