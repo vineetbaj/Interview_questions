@@ -2,7 +2,7 @@
 
 1. String related questions
   - Reverse of a string via recursion
-  - Checking how many palindrome series a string contains(*TO BE MADE*).
+  - Checking how many palindrome series a string contains(*to be made*).
   - Permutation of a string via recursion.
   - Occurence of a character in a string using Hashtable.
   - To check is two strings are anagram in java using hashtable.
