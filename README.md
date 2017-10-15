@@ -13,4 +13,4 @@
 3. Sorting algorithms
   - Bubble sort --Complexity=*O(n^2)*
   - Insertion sort --Complexity=*O(n^2)*
-  - Quick sort --Complexity=*avg case -O(nlog(n)) <br/> worst case -O(n^2)*
+  - Quick sort --Complexity = *avg case :O(nlog(n))  worst case :O(n^2)*
