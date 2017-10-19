@@ -14,4 +14,3 @@
   - Bubble sort --Complexity=*O(n^2)*
   - Insertion sort --Complexity=*O(n^2)*
   - Quick sort --Complexity = *avg case :O(nlog(n))  worst case :O(n^2)*
-  - Merge sort --Complexity=*O(nlog(n))*
